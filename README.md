@@ -15,6 +15,7 @@ WASD - Character movement
 Shift - Sprint
 Space Bar - Jump
 Left Click - Fire
+R - Reload
 Mouse Wheel/Numbar 1 & 2 - Switch Weapons
 
 
