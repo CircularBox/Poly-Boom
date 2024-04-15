@@ -8,3 +8,19 @@ Resources and References
 Team Contributions - 
 Visual Documentation -
 Future Plans/Updates
+
+
+Controlls - 
+WASD - Character movement
+Shift - Sprint
+Space Bar - Jump
+Left Click - Fire
+Mouse Wheel/Numbar 1 & 2 - Switch Weapons
+
+
+Unique Features - 
+The Apartment building can be destroyed with the rocket launcher, other buildings cannot be in the current build. I deemed the parking garage important to stay intact for level verticality, and I did not have the development time to redesign the level. The city hall building I was never able rebuild as a fractured model 
+
+
+Developer Notes - 
+As of the submission date, I do not consider the game complete by any stretch of the imagination. The core of the game is functional, but it is not at what I consider an acceptable standard and I imagine most others would agree with me.
