@@ -1,2 +1,6 @@
--Locate the "Build Versions" Folder in this repository.
-Download the folder to your device, 
+- Download the "Build Versions" folder to your device, download repository as ZIP if necessary
+- Once Downloaded Locate the Build Versions "V.01" Folder
+- Within this folder, extract the file from "Compression Folder_Unity Player.zip" and paste into the same folder as "Poly Boom.exe"
+- Next, Locate the "Poly Boom_Data" folder
+- Within this folder, extract the file from "Compression Folder_Shared Assets.zip" and paste back in the "Poly Boom_Data" folder
+- Launch the executable to start the game
