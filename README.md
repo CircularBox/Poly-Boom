@@ -20,7 +20,7 @@ Mouse Wheel/Numbar 1 & 2 - Switch Weapons
 
 
 Unique Features - 
-The Apartment building can be destroyed with the rocket launcher, other buildings cannot be in the current build. I deemed the parking garage important to stay intact for level verticality, and I did not have the development time to redesign the level. The city hall building I was never able rebuild as a fractured model 
+The Apartment building can be destroyed with the rocket launcher, other buildings cannot be in the current build due to time constraints
 
 
 Developer Notes - 
