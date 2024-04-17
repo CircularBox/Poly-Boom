@@ -1,4 +1,5 @@
-- Download the "Build Versions" folder to your device, download repository as ZIP if necessary
+- Download the "Build Versions" folder to your device, downloading whole repository as ZIP may be necessary if accessing via website.
+any files other than the build version folder can be deleted
 - Once Downloaded Locate the Build Versions "V.01" Folder
 - Within this folder, extract the file from "Compression Folder_Unity Player.zip" and paste into the same folder as "Poly Boom.exe"
 - Next, Locate the "Poly Boom_Data" folder
