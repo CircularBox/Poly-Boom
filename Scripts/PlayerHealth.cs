@@ -7,9 +7,14 @@ public class PlayerHealth : MonoBehaviour
     private int currentHealth;
     public Vignette_Take_Damage vignetteEffect;
 
+    public Health_Bar healthbar;
+
+    public AudioSource audioSource;
+
     void Start()
     {
         currentHealth = maxHealth;
+        healthbar.SetMaxHealth(maxHealth);
     }
 
     public void TakeDamage(int damageAmount)
@@ -21,7 +26,9 @@ public class PlayerHealth : MonoBehaviour
         }
 
         Debug.Log("Damage Taken");
+        audioSource.Play();
         currentHealth -= damageAmount;
+        healthbar.SetHealth(currentHealth);
         if (currentHealth <= 0)
         {
             Die();
@@ -36,7 +43,7 @@ public class PlayerHealth : MonoBehaviour
     private void Die()
     {
         // Implement player death logic here (e.g., play animation, disable movement, display game over screen)
-        Debug.Log("Player Died!");
+        //Debug.Log("Player Died!");
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }
